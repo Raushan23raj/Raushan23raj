@@ -1,10 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=200&section=header&text=Raushan%20Raj&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20and%20AI%20developer%20%C2%B7%20CSE%20at%20BIT%20Mesra&descAlignY=60&descSize=20" width="100%" alt="Header" />
 
-<p align="center">
-  <a href="https://github.com/Raushan23raj">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=640&lines=Full-stack+Developer;AI+Builder;Problem+Solver" alt="Typing animation" />
-  </a>
-</p>
+<p align="center"><b>Full-stack Developer · AI Builder · Problem Solver</b></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/raushan-raj-02427b29b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
