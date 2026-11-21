@@ -2,18 +2,22 @@
 
 <p align="center">
   <a href="https://github.com/Raushan23raj">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=640&lines=Building+full-stack+web+apps;Turning+LLMs+into+useful+tools;B.Tech+CSE+%40+BIT+Mesra+(2023%E2%80%932027)" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=640&lines=Full-stack+Developer;AI+Builder;Problem+Solver" alt="Typing animation" />
   </a>
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/raushan-raj-02427b29b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/Raushan_06/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://codeforces.com/profile/raushanlakh"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
   <a href="https://github.com/Raushan23raj"><img src="https://img.shields.io/badge/GitHub-Raushan23raj-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/BIT_Mesra-0f172a?style=flat-square" alt="BIT Mesra"/>
   <img src="https://img.shields.io/badge/B.Tech_CSE-1d4ed8?style=flat-square" alt="B.Tech CSE"/>
-  <img src="https://img.shields.io/badge/Batch_2027-06b6d4?style=flat-square" alt="Batch 2027"/>
+  <img src="https://img.shields.io/badge/LeetCode_Knight-f59e0b?style=flat-square" alt="LeetCode Knight"/>
+  <img src="https://img.shields.io/badge/Codeforces_Pupil-06b6d4?style=flat-square" alt="Codeforces Pupil"/>
 </p>
 
 ---
@@ -21,6 +25,7 @@
 ## 🧭 About me
 
 - 🎓 B.Tech in **Computer Science & Engineering** at **BIT Mesra, Ranchi** (2023–2027)
+- 🏆 **Knight** on LeetCode and **Pupil** on Codeforces
 - 🛠️ I build **full-stack apps** with React, Node.js and MongoDB, and **AI tools** with Python and LLMs
 - 📊 Recently built an app that lets you **chat with any CSV file** and see the code behind every answer
 - 💬 Added **real-time chat, role-based dashboards and image uploads** to a property marketplace
@@ -70,6 +75,11 @@ Property marketplace with buyer, seller and admin roles, real-time chat, wishlis
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Raushan23raj&theme=tokyonight&hide_border=true" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Raushan_06?theme=dark&font=Fira%20Code&border=0" height="180" alt="LeetCode stats" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=raushanlakh&theme=tokyonight" height="180" alt="Codeforces stats" />
 </p>
 
 ---
