@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=200&section=header&text=Raushan%20Raj&fontSize=64&fontColor=ffffff&desc=Full-stack%20%26%20AI%20developer%20%C2%B7%20CSE%20%40%20BIT%20Mesra&descSize=20" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=200&section=header&text=Raushan%20Raj&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full-stack%20and%20AI%20developer%20%C2%B7%20CSE%20at%20BIT%20Mesra&descAlignY=60&descSize=20" width="100%" alt="Header" />
 
 <p align="center">
   <a href="https://github.com/Raushan23raj">
